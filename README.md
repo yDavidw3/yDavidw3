@@ -22,4 +22,4 @@
 ---
 
 ###  🎭 
-![Gif Banner][(https://giphy.com/gifs/halloween-skeletons-skeleton-dance-QuxqWk7m9ffxyfoa0a)](https://tenor.com/bMhE7.gif)
+![Gif Banner][(https://giphy.com/gifs/halloween-skeletons-skeleton-dance-QuxqWk7m9ffxyfoa0a)](https://tenor.com/bMhE7.gif).
