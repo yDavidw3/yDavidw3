@@ -1,16 +1,25 @@
-## Hi there 👋
+# Developer
 
-<!--
-**yDavidw3/yDavidw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=yDavidw3&color=blueviolet&style=flat)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yDavidw3&show_icons=true&theme=dark)
+
+---
+
+### 🔥 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yDavidw3&layout=compact&theme=dark)
+
+---
+
+### 💻 Tecnologias que uso
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,css,javascript,sql" />
+</p>
+
+---
+
+###  🎭 
+![Gif Banner][(https://giphy.com/gifs/halloween-skeletons-skeleton-dance-QuxqWk7m9ffxyfoa0a)](https://tenor.com/bMhE7.gif)
