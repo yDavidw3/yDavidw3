@@ -18,8 +18,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,css,javascript,python,sql" />
 </p>
-
----
-
-###  🎭 
-![Gif Banner][(https://giphy.com/gifs/halloween-skeletons-skeleton-dance-QuxqWk7m9ffxyfoa0a).
