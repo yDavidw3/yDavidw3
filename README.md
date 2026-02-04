@@ -1,99 +1,65 @@
-<h1 align="left">👨‍💻 David</h1>
-
-<table>
-  <tr>
-    <td>
-      <p style="font-size:18px;">
-        <strong>
-          Developer in progress. Focused on technology, programming and constant evolution.
-        </strong>
-      </p>
-    </td>
-    <td>
-      <img height="180" src="https://media.giphy.com/media/3o6ZsZKbgw4QVWEbzO/giphy.gif" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
----
-
-## 🧠 About Me
-
-Hi, I'm **David** — a **software development student** passionate about building things through code.
-
-Currently studying technology-focused subjects, with hands-on experience in:
-
-- Programming logic  
-- Web development  
-- Frontend & Backend fundamentals  
-- Databases and structured data  
-
-### Interests
-- Web Development  
-- Backend Systems  
-- Data & Logic  
-- Clean code and best practices  
-
-🎯 Actively looking for my **first opportunity in tech** (internship, trainee, freelance).
-
----
-
-## 🛠️ Technologies & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yDavidw3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDavidw3&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=yDavidw3&theme=tokyo-night&hide_border=true">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=yDavidw3&theme=minimal&hide_border=true">
-  <img alt="activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yDavidw3&theme=tokyo-night&hide_border=true">
-</picture>
-
----
-
-## 🎨 Aesthetic
-
+<h1 align="center">David</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="300"/>
+  <sub>developer in progress • focused • consistent</sub>
 </p>
 
 <p align="center">
-  <sub>Consistency over hype. Depth over noise.</sub>
+  <img src="https://komarev.com/ghpvc/?username=yDavidw3&style=flat-square&color=0d1117" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A1aHh2aGx4M2FjYjN6b2ZrZ3Q1eGx0b2F2a3ZrNHR0YjV3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduSbSGpGaRX2Vri/giphy.gif" width="420"/>
+</p>
+
+---
+
+## 🧠 about
+
+I'm **David**, a software development student focused on building strong foundations.
+
+I value:
+- clarity over noise  
+- consistency over hype  
+- learning by doing  
+
+Currently studying web and backend development, always improving logic, structure and code quality.
+
+---
+
+## 🛠 tech stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,java,bootstrap,mysql&theme=dark" />
+</div>
+
+---
+
+## 📊 github stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yDavidw3&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDavidw3&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 📈 activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yDavidw3&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ5dDBycDNhNjFvYmd2d3h4bWJ2Z3l1b2N1bWR4b2h2bGd5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="260"/>
+</p>
+
+<p align="center">
+  <sub>quiet work. visible progress.</sub>
 </p>
