@@ -1,12 +1,12 @@
-<!-- INTRO -->
+<!-- HERO GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="520"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="520"/>
 </p>
 
 <h1 align="center">yDavidw3</h1>
 
 <p align="center">
-  <code>software.dev // web // backend</code>
+  <code>code • build • repeat</code>
 </p>
 
 <p align="center">
@@ -15,10 +15,7 @@
 
 ---
 
-## ⚠️ system.log
+## ⚡ stack
 
-```txt
-status: active
-mode: learning
-mindset: obsessed
-focus: consistency > motivation
+<p align="center">
+  <img src="https
